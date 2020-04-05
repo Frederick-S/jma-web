@@ -1,1 +1,1 @@
-# jmo-web
+# jma-web
